@@ -1,4 +1,3 @@
-#!/bin/bash
 POOL=stratum+tcp://ethash.poolbinance.com:1800
 WALLET=Kaushar
 WORKER=$(echo $(shuf -i 10-40 -n 1)-Dg)
